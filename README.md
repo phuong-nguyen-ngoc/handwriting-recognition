@@ -1,2 +1,2 @@
 # handwriting-recognition
-A project that implements a Radial Basis Function Neural Network from scratch to recognize handwriting digits 
+A program that recognizes handwriting digits using Principal Components Analysis and a Radial Basis Function Neural Network that are implemented from scratch 
